@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siraj Khan
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C# and Unity
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning C# and Java
 
 <!---
 sirajkhan831/sirajkhan831 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
