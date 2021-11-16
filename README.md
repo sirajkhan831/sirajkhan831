@@ -7,6 +7,7 @@ I'm Siraj Khan , a 23 years old developer from Raipur, Chhattisgarh, India.
 
 ## Skills
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirajkhan831&layout=compact&theme=buefy&hide_border=false" />
+
 - 👨‍💻 Java, C#
 - ⚙️ React
 - 👁️ CSS
