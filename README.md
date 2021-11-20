@@ -14,7 +14,8 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirajkhan831&layout=compact&theme=buefy&hide_border=false" />
 
-## Contact
-- [@Instagram](https://www.instagram.com/siraj.exe/)
-- [@Facebook](https://www.facebook.com/Sirajkhan831/)
+## Contact Me
+- [@siraj.exe](https://www.instagram.com/siraj.exe/) on Instagram
+- [@sirajkhan831](https://www.facebook.com/Sirajkhan831/) on Facebook
 - [Bloodline#5372](https://discord.gg/HzK8sJy) on Discord
+- [Siraj Khan](https://www.linkedin.com/in/siraj-khan-52a691139) on LinkedIn
