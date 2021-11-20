@@ -4,7 +4,7 @@
 ### Hey! I'm Siraj Khan , a 23 years old developer from Raipur, Chhattisgarh, India.
 <img align="left" src="https://github.com/sirajkhan831/yahiayega.com_React_Bootstrap/blob/masterv2/public/logo.png" alt="Logo" width="25"/>&nbsp;&nbsp;Founder at [yahiayega.com](https://www.yahiayega.com/)
  
-<img align="left" src="https://img.icons8.com/external-justicon-lineal-color-justicon/25/000000/external-graduation-elearning-and-education-justicon-lineal-color-justicon.png"/>&nbsp;&nbsp;Bachelor's in Computer Science from [Rungta Engineering College](https://www.rungta.ac.in/)
+<img align="left" src="https://img.icons8.com/external-justicon-lineal-color-justicon/25/000000/external-graduation-elearning-and-education-justicon-lineal-color-justicon.png"/>&nbsp;&nbsp;Bachelor's in Computer Science from [Rungta College Of Engineering and Technology](https://www.rungta.ac.in/)
 
 <img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/25/000000/external-coding-seo-and-media-flatart-icons-lineal-color-flatarticons.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student at [BridgeLabz](https://www.rungta.ac.in/)
 
