@@ -1,5 +1,6 @@
-## Hey! 👋
-I'm Siraj Khan , a 23 years old developer from Raipur, Chhattisgarh, India.
+<img align="center" src="https://raw.githubusercontent.com/sirajkhan831/laboratory/master/name.gif" />
+
+Hey! I'm Siraj Khan , a 23 years old developer from Raipur, Chhattisgarh, India.
 
 - 🧭 Founder at [yahiayega.com](https://www.yahiayega.com/)
 
