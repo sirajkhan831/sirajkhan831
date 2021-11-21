@@ -15,7 +15,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirajkhan831&layout=compact&theme=buefy&hide_border=false" />
 
 ## Contact Me
-- [@siraj.exe](https://www.instagram.com/siraj.exe/) on Instagram
-- [@sirajkhan831](https://www.facebook.com/Sirajkhan831/) on Facebook
-- [Bloodline#5372](https://discord.gg/HzK8sJy) on Discord
-- [Siraj Khan](https://www.linkedin.com/in/siraj-khan-52a691139) on LinkedIn
+
+<img src="https://img.icons8.com/color/48/000000/facebook-new.png" align="center"> [@sirajkhan831](https://www.facebook.com/Sirajkhan831/) <br> <br>
+<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" align="center"/> [@siraj.exe](https://www.instagram.com/siraj.exe/) <br> <br>
+<img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" align="center"/> [@Bloodline#5372](https://discord.gg/HzK8sJy) <br> <br>
+<img src="https://img.icons8.com/color/48/000000/linkedin.png" align="center"/> [@Siraj Khan](https://www.linkedin.com/in/siraj-khan-52a691139)
