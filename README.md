@@ -16,6 +16,7 @@
 
 ## :phone: Contact Me
 
+<img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/48/000000/external-mail-coding-kiranshastry-lineal-color-kiranshastry.png" align="center"/>          [&nbsp;sirajkhanc2305@gmail.com](mailto:sirajkhanc2305@gmail.com) <br> <br>
 <img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" align="center"/> [@Bloodline#5372](https://discord.gg/HzK8sJy) <br> <br>
 <img src="https://img.icons8.com/color/48/000000/facebook-new.png" align="center"> [@sirajkhan831](https://www.facebook.com/Sirajkhan831/) <br> <br>
 <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" align="center"/> [@siraj.exe](https://www.instagram.com/siraj.exe/) <br> <br>
