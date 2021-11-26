@@ -11,11 +11,13 @@
 
 <img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/25/000000/external-coding-seo-and-media-flatart-icons-lineal-color-flatarticons.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student at [BridgeLabz](https://www.bridgelabz.com/)
 
-## :chart_with_upwards_trend: Skills
+## :chart_with_upwards_trend: Stats
 
-<img src="https://img.icons8.com/color/64/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/64/000000/css3.png"/> <img src="https://img.icons8.com/color/64/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/64/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/64/000000/c-sharp-logo-2.png"/> <img src="https://img.icons8.com/color/64/000000/console.png"/> <img src="https://img.icons8.com/ultraviolet/64/000000/react--v2.png"/> <img src="https://img.icons8.com/color/64/000000/mysql-logo.png"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirajkhan831&layout=compact&theme=dracula&hide_border=false" width="450px"/>
 
-[<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirajkhan831&layout=compact&theme=dracula&hide_border=false" />](https://github.com/sirajkhan831?tab=repositories)
+<img src="https://wakatime.com/share/@6503cea3-02c8-4bd7-804c-cebe8fd08446/b724a5b1-ef34-42c7-a08a-98bff8a2e683.svg" width="450px" align="left"/>
+<img src="https://wakatime.com/share/@6503cea3-02c8-4bd7-804c-cebe8fd08446/97a9bbbb-ed3e-4266-bba8-ae475022f974.svg" width="450px" align="right"/><br><br><br><br><br><br><br><br><br><br><br><br>
+
 
 ## :phone: Contact Me
 
