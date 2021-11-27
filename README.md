@@ -15,8 +15,8 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirajkhan831&layout=compact&theme=dracula&hide_border=false" width="450px"/>
 
-<img src="https://wakatime.com/share/@6503cea3-02c8-4bd7-804c-cebe8fd08446/b724a5b1-ef34-42c7-a08a-98bff8a2e683.svg" width="410px" align="left"/>
-<img src="https://wakatime.com/share/@6503cea3-02c8-4bd7-804c-cebe8fd08446/97a9bbbb-ed3e-4266-bba8-ae475022f974.svg" width="410px" align="right"/><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img src="https://wakatime.com/share/@6503cea3-02c8-4bd7-804c-cebe8fd08446/b724a5b1-ef34-42c7-a08a-98bff8a2e683.svg" width="400px" align="left"/>
+<img src="https://wakatime.com/share/@6503cea3-02c8-4bd7-804c-cebe8fd08446/97a9bbbb-ed3e-4266-bba8-ae475022f974.svg" width="400px" align="right"/><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 ## :phone: Contact Me
