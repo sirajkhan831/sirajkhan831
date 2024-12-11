@@ -1,5 +1,5 @@
 ## :book: About Me
-### Hello World! I am Siraj Khan, A 25 years old developer from India
+### Hello World! I am Siraj Khan, A 26 years old developer from India
 
 <img align="left" src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Logo" width="25"/>&nbsp;&nbsp;Portfolio website : [knowsirajkhan.web.app](https://knowsirajkhan.web.app)
  
